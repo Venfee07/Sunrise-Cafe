@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: burlywood;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #508192;
+}
+h2 {
+    color: #508192;
+    text-align: center;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+ th {
+    background-color: #00698f;
+    color: white;
+}
+
+#contact {
+    padding: 20px;
+    text-align: center;
+}
+
+#contact h2 {
+    color: #00698f;
+}
+
+a {
+    color: #00698f;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #003d5c;
+}
